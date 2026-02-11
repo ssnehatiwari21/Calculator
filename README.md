@@ -1,3 +1,4 @@
+
 # Calculator Project
 
 A simple calculator built using HTML, CSS, and JavaScript.
@@ -15,3 +16,27 @@ A simple calculator built using HTML, CSS, and JavaScript.
 
 ## How to Run
 Open index.html in your browser.
+
+# Calculator Project
+
+A simple calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Basic arithmetic operations (+, -, *, /, %)
+- Delete and Clear functionality
+- Error handling
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+Open index.html in your browser.
+
+## Live Demo
+[Click here to use the calculator](https://yourusername.github.io/calculator-project/)
+
+## Preview
+![Calculator Preview](screenshot.png)
+
