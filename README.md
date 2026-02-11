@@ -35,7 +35,7 @@ A simple calculator built using HTML, CSS, and JavaScript.
 Open index.html in your browser.
 
 ## Live Demo
-[Click here to use the calculator](https://yourusername.github.io/calculator-project/)
+[Click here to use the calculator](https://ssnehatiwari21.github.io/Calculator/)
 
 ## Preview
 ![Calculator Preview](screenshot.png)
