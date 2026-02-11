@@ -38,5 +38,5 @@ Open index.html in your browser.
 [Click here to use the calculator](https://ssnehatiwari21.github.io/Calculator/)
 
 ## Preview
-![Calculator Preview](screenshot.png)
+![Calculator Preview](calculator.png)
 
